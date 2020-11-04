@@ -105,7 +105,7 @@ Installed Tools
 - MITRE TRAM
 - SIGMA
 - YETI
-- Azure Zentinel 
+- Azure Sentinel 
 - AMITT Framework
 
 ### Adversarial Emulation
